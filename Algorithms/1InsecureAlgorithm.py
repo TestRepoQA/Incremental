@@ -1,5 +1,5 @@
 import hashlib
-
+'''
 class WeakHashingAlgorithm:
     def __init__(self):
         pass
